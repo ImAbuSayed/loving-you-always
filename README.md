@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/loving-you-always/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Loving You Always](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/loving-you-always/) |
+| **Get License** | [Get License For Loving You Always](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/loving-you-always/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b59ccf25f8954149a893ab539ebc877428f5eb655662ca8862c5c71289441e87` |
 | **Timestamp** | May 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

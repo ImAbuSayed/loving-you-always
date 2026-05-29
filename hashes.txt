@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Loving You Always
+
+This log tracks the cryptographic history and versioning for the song **Loving You Always** (loving-you-always).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-29T16:31:57.166515 | `v1` | `b59ccf25f8954149a893ab539ebc877428f5eb655662ca8862c5c71289441e87` | `c68b8689592c425b382fe4e0becab321dc367004d79b89ab61255047d940aa34` | `2026-05-29_loving-you-always-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
